@@ -1,3 +1,3 @@
-#An analog clock made with HTML, CSS and JavaScript
+#Analog-clock
 
 link to live view - https://madhurajayashanka.github.io/Java-Script-Clock/
